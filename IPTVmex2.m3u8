@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,CANAL 5
+http://38.49.128.38:8000/play/a0n6/index.m3u8
+#EXTINF:-1,Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1,AZTECA 7
+http://45.189.62.33:8060/play/a00a/index.m3u8
+#EXTINF:-1,Adult Swim
+http://45.5.116.178:8000/play/a01q/index.m3u8
+#EXTINF:-1,DISTRITO COMEDIA
+http://45.68.35.218:4001/play/a00f/index.m3u8
+#EXTINF:-1,NICKELODEON
+http://179.63.6.15:8000/play/a00h
+#EXTINF:-1,ADN40
+http://38.49.128.38:8000/play/a0ne/index.m3u8
+#EXTINF:-1,FORO TV
+http://45.167.255.254:8010/play/a02j/index.m3u8
+#EXTINF:-1,VariedTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1,N+
+https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/6af1ef3f-cbc4-4f58-b140-c4bea0cc298a:MRN2/variant/e59b3e654afa7c90f4d892e45fee99a8/bandwidth/1320000.m3u8?hdntl=exp=1744242812~acl=*~id=858158a0-4d90-41b7-aa62-a773d9c9aba5~data=hdntl~hmac=38f91a80d3421ca2fd37e4c711cf434026a082b22da9acdf8bdbe3c1138b2ac8&
+#EXTINF:-1,Imagen Television
+https://live-c.cf.dmcdn.net/sec2(TwI43C7PiwKk6I6qvHVqhVywR74r4ehsVghT8qE2ze1sPkofB_Fw2myF7bmjwMAimQ8WCbO4ce9ixB1OiCAHhPUsrMZaNn_FFICcSw2MJB2XIrPecoin_ljH70CQV8aw)/dm/3/x82z4if/d/live-720.m3u8#cell=lcfc
